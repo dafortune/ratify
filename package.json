@@ -21,11 +21,11 @@
 		"rewire": "2.x.x",
 		"coveralls": "2.x.x",
 		"mocha-lcov-reporter": "0.x.x",
-		"hapi": "^11.1.1",
+		"hapi": ">=11.1.1 <=13.4.2",
 		"catbox-memory": "^2.0.1"
 	},
 	"peerDependencies": {
-		"hapi": "^11.1.1"
+		"hapi": ">=11.1.1 <=13.4.2"
 	},
 	"keywords": [
 		"hapi",
